@@ -1,0 +1,26 @@
+students{
+text-align:center;
+background-color:#d8f0f3;
+width:100%;
+
+padding-top:250px;
+}
+student{
+float:bottom;
+width:100%;
+display:block
+}
+USN{
+ margin-left:10px;font-size:14pt; color:Red;
+}
+name{
+ margin-left:20px;font-size:14pt; color:Blue;
+}
+college{
+ margin-left:20px;font-size:12pt; color:Maroon;
+}
+branch{
+  margin-left:20px;font-size:12pt; color:#006600;
+}
+year{
+	margin-left:20px;font-size:12pt; color:goldenrod;}
